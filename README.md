@@ -140,7 +140,7 @@ wiki/                 pages published to the GitHub wiki
 
 ## Documentation
 
-The longer notes live in the [wiki](https://github.com/edsonlourenco/hearthline/wiki): installation, boot, networking, the AWS CLI, daily operations, and troubleshooting. The same pages are in the `wiki/` directory of this repository.
+The longer notes are in `wiki/`: installation, boot, networking, the AWS CLI, daily operations, and troubleshooting. GitHub shows that directory as the project wiki after the wiki repository exists. The first GitHub wiki page has to be saved once in the browser; `scripts/publish-wiki.sh` then pushes the rest.
 
 ## License
 
